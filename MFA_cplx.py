@@ -6,7 +6,7 @@ import utils as ut
 
 class MFA_cplx(object):
     """
-    Mixture of Factor Analyzers using batches with moderate size in EM to avoid memory conflicts.
+    Complex-valued implementation of the EM algorithm for fitting Mixture of Factor Analyzers.
 
     internal variables:
     `K`:           Number of components
