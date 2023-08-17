@@ -1,3 +1,6 @@
+# Author: Benedikt Fesl <benedikt.fesl@tum.de>
+# License: BSD 3 clause
+
 import time
 import numpy as np
 import MFA_cplx

@@ -1,3 +1,11 @@
+# Original code base:
+# Authors: Ross Fadely, Daniel Foreman-Mackey, David W. Hogg, and contributors.
+# License: MIT
+
+# Contributions with considerable memory savings, complexity speed-ups, and complex-valued extension:
+# Author: Benedikt Fesl <benedikt.fesl@tum.de>
+# License: BSD 3 clause
+
 import numpy as np
 from scipy.linalg import inv
 from sklearn import cluster
