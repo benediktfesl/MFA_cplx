@@ -25,6 +25,7 @@ This code is written in *Python*. It uses the *numpy*, *scipy*, *sklearn*, and *
 ## Research work
 The results of the following work are based (in parts) on the complex-valued MFA implementation:
 - B. Fesl, N. Turan, and W. Utschick, “Low-Rank Structured MMSE Channel Estimation with Mixtures of Factor Analyzers,” in *57th Asilomar Conf. Signals, Syst., Comput.*, 2023.
+  https://arxiv.org/abs/2304.14809
 
 ## Original License
 The original code from https://pypi.org/project/mofa/ is covered by the following license:
